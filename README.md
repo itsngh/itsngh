@@ -1,4 +1,4 @@
-[<img src="https://github.com/itsngh/itsngh/blob/main/header-banner.png?raw=true">]
+<img src="https://github.com/itsngh/itsngh/blob/main/header-banner.png?raw=true">
 
 # About me!
 ```
