@@ -1,10 +1,8 @@
-<img src="https://github.com/itsngh/itsngh/blob/main/header-banner.png?raw=true">
-
 # About me!
 ```
 const aboutMe = {
-    aliases:            ["carrot", "stacyxan", "lilac", "cloudberry"],
-    age:                17,
+    aliases:            ["huynguyen", "ngh", "cloudberry", "stacyxan"]
+    age:                18,
     location: {
         city:           "Hanoi",
         country:        "Vietnam"
@@ -12,12 +10,13 @@ const aboutMe = {
     pronouns:           "he" | "she" | "they",
     languages:          TypeScript && JavaScript && C++ && HTML && CSS,
     technologies: {
+        frontEnd:       ["ReactJS", "VueJS"]
         backEnd: {
-            js:         ["Node", "Express", "Prisma", "React"],
-            os:         ["Gentoo", "Artix", "Arch", "Debian", "Void", "Windows", "macOS"],
-            misc:       ["Linux", "OpenRC", "S6", "SystemD"]
+            js:         ["Bun", "Express", "Drizzle", "Prisma", "NextJS"],
+            os:         ["Gentoo", "Artix", "Windows", "macOS"],
+            misc:       ["LTS Linux", "OpenRC"]
         },
-        databases:      ["PostgreSQL", "Supabase", "Redis"],
+        databases:      ["PostgreSQL", "SQL Server", "Supabase", "Redis"],
         mobile:         ["iOS"]
     },
     currentOccupation:  ["highschool senior student, looking for job opportunities"],
